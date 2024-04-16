@@ -1,1 +1,1 @@
-# expression-statement
+These are the desktop application programs that I have created through practicing. These programs consist of printing customer's bill receipt, cashiers' bill, calculation of average, conversion of time to seonds, seconds to days and many more.
